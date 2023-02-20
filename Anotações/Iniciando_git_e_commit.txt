@@ -1,0 +1,10 @@
+Dentro do git, na pastar que criou, de o " git init ", para iniciar o repositorio dentro do git
+
+
+Se for a primeira vez usando o git nessa maquina, vai pedir o apelido é o email. E coloca usando:
+
+- git config --global user.email "coloca o email entre as aspas";
+- git config --global user.nickname coloca o apelido
+
+depois de vc ter feito o que tinha que fazer, dar o " git add * ", para adicionar a alteração feita ao repositorio
+e depois o " git commit -m "Colocar um comentario entre as aspas ", para salva essa alteração feita no historico de commit do repositorio
