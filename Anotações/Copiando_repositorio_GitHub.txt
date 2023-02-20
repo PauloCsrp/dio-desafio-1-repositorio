@@ -1,0 +1,5 @@
+Para copiar um repositorio do github, bastar vc ir no repositorio que deseja copia, clicar em "code" e pegar o http e no git
+coloca o comando " git clone coloca o http do repositorio aqui ".
+
+Com isso vc pode mexer e alterar.
+E para mandar para o git so basta segui o que esta no bloco de anotação "GitHUb"
