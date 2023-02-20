@@ -1,0 +1,24 @@
+Para enviar o repositorio do git para o github -e importante o email e o nickname estarem iguais, no gi e no github, pois
+quando salva no historio de commit, vai ta dizendo que vc realmente vc.
+
+Para verifica o seu email e nickname no git e so colocar o comando " git config - list " e lá verifica que o seu email e nickname esta igual no github.
+
+caso não esteja, apra mudar é:
+
+O email: coloca o comando " git config --global --usent user.email " e para adicionar um novo email colocar o comando
+" git config --global user.email "coloca o email entre as aspas ";
+
+O nome: coloca o comando " git config --global --usent user.nickname " e para adicionar um novo nick colocar o comando
+" git config --global user.email coloca o nickname aqui ;
+
+O segundo passo seria traça a origem. E se faz isso colocando o camando " git remote add origin e coloca o http do repositorio
+
+
+Git status: Comando para verifica que não tem anda de errado no repositorio
+
+
+depois disso é so enviar para o git usando o comando " git push origin master"
+
+
+Isso enviando um repositorio que vc criou para o git, enviar um repositorio que vc copiou mudar o comando final.
+FIca " git push origin main "
